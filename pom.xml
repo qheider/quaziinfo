@@ -783,7 +783,7 @@
 		<richfaces.ui.version>3.3.1.GA</richfaces.ui.version>
 		<cxf.version>2.2.3</cxf.version>
 
-		<hibernate.version>3.6.0.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 
 		<hibernate.validator.version>3.1.0.GA</hibernate.validator.version>
 
