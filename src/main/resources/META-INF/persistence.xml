@@ -24,7 +24,7 @@ Transaction Manager used by Seam (Hibernate): org.jboss.seam.transaction.Hiberna
             
 	        <property name="jboss.entity.manager.factory.jndi.name" value="java:/nrsEntityManagerFactory"/>
 
-            <property name="hibernate.search.default.indexBase" value="/usr/srchIndexes/newrecovery" />
+            <property name="hibernate.search.default.indexBase" value="/usr/srchIndexes/quaziinfo" />
 			<property name="hibernate.ejb.event.post-insert"
 				value="org.hibernate.ejb.event.EJB3PostInsertEventListener,org.hibernate.envers.event.AuditEventListener" />
             <property name="hibernate.ejb.event.post-update"
